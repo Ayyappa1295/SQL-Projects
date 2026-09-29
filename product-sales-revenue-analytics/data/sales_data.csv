@@ -1,0 +1,30 @@
+order_id,order_date,customer_id,customer_name,product_id,product_name,category,brand,quantity,unit_price,cost_price,total_sales,total_cost,profit,payment_method,order_status,shipping_city,shipping_state
+1001,2025-06-01,101,Aarav Sharma,201,Laptop Pro 14,Electronics,TechPro,1,75000,60000,75000,60000,15000,UPI,Delivered,Bengaluru,Karnataka
+1001,2025-06-01,101,Aarav Sharma,203,Wireless Headphones,Accessories,SoundMax,2,5000,3000,10000,6000,4000,UPI,Delivered,Bengaluru,Karnataka
+1002,2025-06-03,102,Priya Reddy,202,Smartphone X,Electronics,TechPro,1,35000,27000,35000,27000,8000,Credit Card,Delivered,Hyderabad,Telangana
+1002,2025-06-03,102,Priya Reddy,204,Smart Watch,Wearables,FitTech,1,8000,5000,8000,5000,3000,Credit Card,Delivered,Hyderabad,Telangana
+1003,2025-06-05,103,Rahul Kumar,208,Tablet Air,Electronics,TechPro,1,28000,21000,28000,21000,7000,UPI,Delivered,Chennai,Tamil Nadu
+1003,2025-06-05,103,Rahul Kumar,209,Power Bank,Accessories,PowerPlus,2,1800,1000,3600,2000,1600,UPI,Delivered,Chennai,Tamil Nadu
+1004,2025-06-08,104,Sneha Patel,203,Wireless Headphones,Accessories,SoundMax,3,5000,3000,15000,9000,6000,Debit Card,Shipped,Mumbai,Maharashtra
+1004,2025-06-08,104,Sneha Patel,206,Gaming Mouse,Accessories,GamePro,2,2500,1400,5000,2800,2200,Debit Card,Shipped,Mumbai,Maharashtra
+1005,2025-06-10,105,Arjun Rao,201,Laptop Pro 14,Electronics,TechPro,1,75000,60000,75000,60000,15000,UPI,Delivered,Pune,Maharashtra
+1005,2025-06-10,105,Arjun Rao,207,Mechanical Keyboard,Accessories,GamePro,1,5500,3500,5500,3500,2000,UPI,Delivered,Pune,Maharashtra
+1006,2025-06-12,106,Ananya Singh,202,Smartphone X,Electronics,TechPro,1,35000,27000,35000,27000,8000,Credit Card,Cancelled,Delhi,Delhi
+1007,2025-06-15,107,Vikram Das,205,Bluetooth Speaker,Accessories,SoundMax,2,4500,2800,9000,5600,3400,UPI,Delivered,Kolkata,West Bengal
+1007,2025-06-15,107,Vikram Das,209,Power Bank,Accessories,PowerPlus,3,1800,1000,5400,3000,2400,UPI,Delivered,Kolkata,West Bengal
+1008,2025-06-18,108,Kavya Nair,204,Smart Watch,Wearables,FitTech,2,8000,5000,16000,10000,6000,UPI,Delivered,Kochi,Kerala
+1008,2025-06-18,108,Kavya Nair,210,USB-C Hub,Accessories,ConnectPro,2,3000,1700,6000,3400,2600,UPI,Delivered,Kochi,Kerala
+1009,2025-06-20,109,Rohan Mehta,208,Tablet Air,Electronics,TechPro,1,28000,21000,28000,21000,7000,Credit Card,Shipped,Ahmedabad,Gujarat
+1009,2025-06-20,109,Rohan Mehta,203,Wireless Headphones,Accessories,SoundMax,2,5000,3000,10000,6000,4000,Credit Card,Shipped,Ahmedabad,Gujarat
+1010,2025-06-22,110,Divya Iyer,202,Smartphone X,Electronics,TechPro,1,35000,27000,35000,27000,8000,Debit Card,Delivered,Coimbatore,Tamil Nadu
+1010,2025-06-22,110,Divya Iyer,206,Gaming Mouse,Accessories,GamePro,2,2500,1400,5000,2800,2200,Debit Card,Delivered,Coimbatore,Tamil Nadu
+1011,2025-07-01,101,Aarav Sharma,201,Laptop Pro 14,Electronics,TechPro,1,75000,60000,75000,60000,15000,UPI,Delivered,Bengaluru,Karnataka
+1011,2025-07-01,101,Aarav Sharma,210,USB-C Hub,Accessories,ConnectPro,1,3000,1700,3000,1700,1300,UPI,Delivered,Bengaluru,Karnataka
+1012,2025-07-04,102,Priya Reddy,202,Smartphone X,Electronics,TechPro,2,35000,27000,70000,54000,16000,Credit Card,Delivered,Hyderabad,Telangana
+1012,2025-07-04,102,Priya Reddy,203,Wireless Headphones,Accessories,SoundMax,1,5000,3000,5000,3000,2000,Credit Card,Delivered,Hyderabad,Telangana
+1013,2025-07-07,103,Rahul Kumar,207,Mechanical Keyboard,Accessories,GamePro,2,5500,3500,11000,7000,4000,UPI,Shipped,Chennai,Tamil Nadu
+1013,2025-07-07,103,Rahul Kumar,209,Power Bank,Accessories,PowerPlus,2,1800,1000,3600,2000,1600,UPI,Shipped,Chennai,Tamil Nadu
+1014,2025-07-10,104,Sneha Patel,208,Tablet Air,Electronics,TechPro,1,28000,21000,28000,21000,7000,UPI,Delivered,Mumbai,Maharashtra
+1014,2025-07-10,104,Sneha Patel,204,Smart Watch,Wearables,FitTech,1,8000,5000,8000,5000,3000,UPI,Delivered,Mumbai,Maharashtra
+1015,2025-07-15,105,Arjun Rao,201,Laptop Pro 14,Electronics,TechPro,1,75000,60000,75000,60000,15000,Credit Card,Delivered,Pune,Maharashtra
+1015,2025-07-15,105,Arjun Rao,205,Bluetooth Speaker,Accessories,SoundMax,2,4500,2800,9000,5600,3400,Credit Card,Delivered,Pune,Maharashtra
